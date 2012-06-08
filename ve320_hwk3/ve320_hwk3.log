@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.6.6)  7 JUN 2012 21:37
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2012.6.6)  8 JUN 2012 12:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -220,7 +220,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
 [1
 
-{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+]
 Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
@@ -467,26 +467,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 131--132
 
 [3] (./ve320_hwk3.aux) ) 
 Here is how much of TeX's memory you used:
- 821 strings out of 493610
- 9194 string characters out of 3142426
+ 820 strings out of 493611
+ 9184 string characters out of 3142449
  65163 words of memory out of 3000000
  4191 multiletter control sequences out of 15000+200000
  7053 words of font info for 26 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  27i,5n,20p,231b,109s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2011/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmex10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmmi10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmmi6.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmmi8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmsy10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmsy8.pfb>
-Output written on ve320_hwk3.pdf (3 pages, 88558 bytes).
-PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
+Output written on ve320_hwk3.dvi (3 pages, 8092 bytes).
